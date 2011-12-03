@@ -1,6 +1,0 @@
----
-layout: none
-permalink: .htaccess
----
-ErrorDocument 404 http://toasthaiku.net/404.html
-

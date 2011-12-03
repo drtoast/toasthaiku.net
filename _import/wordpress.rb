@@ -50,7 +50,7 @@ SQL
         slug = post[:post_name]
         date = post[:post_date]
         content = post[:post_content]
-        content.gsub!(%r(http://www.drtoast.com/wp-content/uploads/), '/uploads/')
+        content.gsub!(%r(http://toasthaiku.net/wp-content/uploads/), '/uploads/')
         content.gsub!(%r(rating: <img src="/files/images/.*>), '')
         content.gsub!(/\r/, '<br />')
         name = "%02d-%02d-%02d-%s.html" % [date.year, date.month, date.day, slug]
