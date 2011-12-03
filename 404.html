@@ -1,0 +1,16 @@
+---
+layout: default
+title: 404 - Not Found
+---
+
+<h1>oops</h1>
+
+<p>
+Sorry, that thing isn't here anymore. But maybe you'll find one of these recent posts interesting?
+</p>
+
+{% for post in site.posts limit: 5 %}
+    <h3 class='entry-title'><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    <span class='entry-meta'>{{ post.date | date: "%B %-d, %Y" }}</span>
+{% endfor %}
+

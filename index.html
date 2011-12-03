@@ -1,0 +1,30 @@
+---
+layout: default
+title: toast haiku
+---
+
+<div class="posts">
+  {% for post in paginator.posts %}
+    <div class='entry'>
+      <h3 class='entry-title'><a href="{{ post.url }}">{{ post.title }}</a></h3>
+      <span class='entry-meta'>{{ post.date | date: "%B %-d, %Y" }} | {{ post.tags | category_links }}</span>
+      <p>{{ post.content }}</p>
+    </div>
+  {% endfor %}
+</div>
+
+
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a href="/page{{paginator.next_page}}" class="next ">&lt; older posts</a>
+  {% endif %}
+
+  {% if paginator.previous_page %}
+    {% if paginator.previous_page == 1 %}
+      | <a href="/" class="previous">newer posts &gt;</a>
+    {% else %}
+      | <a href="/page{{paginator.previous_page}}" class="previous">newer posts &gt;</a>
+    {% endif %}
+  {% endif %}
+</div>

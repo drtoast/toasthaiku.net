@@ -1,0 +1,19 @@
+---
+layout: post
+title: Word Generator
+wordpress_id: 51
+date: 2007-12-28 18:17:13.000000000 -08:00
+tags:
+- language
+- programming
+- geekery
+- quiniferphose
+---
+Indromia, Quard, Conistate, Vercurelince, Quiniferphose!
+
+In an inexplicable fit of word geekery, I wrote a program to generate new words via a statistical analysis of existing words.  First I generated a <a href="http://en.wikipedia.org/wiki/Histogram" title="Wikipedia entry for " target="_blank">histogram</a> to count the number of times each possible three-letter combination occurs at the beginnings, middles, or ends of existing words.  Then, to generate a new word, the program tries random overlapping three-letter combinations until each of their frequencies of occurrence in the histogram is above a specified threshold.  Isn't that idimogous?
+
+Go ahead and give it a try below!  You can specify a "normalness" scaling factor (5 gives very daisewisfasy-sounding words, 95 gives very conistate-sounding words), a maximum word length, a minimum word length, the source text for the statistical analysis (choose from the dictionary, the Bible, the complete works of William Shakespeare, etc), and an optional "seed" word for the generator to build upon (seeding with "muffin" could yield the wonderful "Muffinetry").
+
+Oh, and I also made a variation that uses U.S. Census data to generate new baby names (just click on "names").
+<p style="text-align: center"> <iframe src="http://dr.toast.dj/new/words/create.pl" height="320" width="400"></iframe></p>

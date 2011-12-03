@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+<h1 class="category">{{ page.title }}</h1>
+{% for post in site.tags[page.title] %}
+    <h3 class='entry-title'><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    <span class='entry-meta'>{{ post.date | date: "%B %-d, %Y" }}</span>
+{% endfor %}
