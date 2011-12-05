@@ -58,7 +58,7 @@ TEMPLATE
   end
 
   def self.commit
-    system "git add . && git commit -am 'new post'"
+    system "git add . && git commit -am 'new post' && git push origin master"
   end
 
   def self.deploy
