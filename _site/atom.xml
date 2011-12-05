@@ -4,7 +4,7 @@
  <title>toast haiku</title>
  <link href="http://toasthaiku.net/atom.xml" rel="self"/>
  <link href="http://toasthiaku.net/"/>
- <updated>2011-12-03T15:34:41-08:00</updated>
+ <updated>2011-12-04T18:38:47-08:00</updated>
  <id>http://toasthaiku.net/</id>
  <author>
    <name>James Reynolds</name>
@@ -13,8 +13,17 @@
 
  
  <entry>
+   <title>Time Lapse View from Space</title>
+   <link href="http://toasthaiku.net/2011/12/04/timelapse-view-from-space"/>
+   <updated>2011-12-04T00:00:00-08:00</updated>
+   <id>http://toasthaiku.net/2011/12/04/timelapse-view-from-space</id>
+   <content type="html">&lt;p&gt;This incredibly beautiful night time lapse footage was shot with high-definition cameras aboard the International Space Station. View full screen for best effect.&lt;/p&gt;
+&lt;iframe frameborder='0' height='298' src='http://player.vimeo.com/video/32001208?title=0&amp;amp;byline=0&amp;amp;portrait=0' width='530' /&gt;</content>
+ </entry>
+ 
+ <entry>
    <title>Red Fabric</title>
-   <link href="http://toasthaiku.net/2011/02/05/red-fabric.html"/>
+   <link href="http://toasthaiku.net/2011/02/05/red-fabric"/>
    <updated>2011-02-05T16:22:39-08:00</updated>
    <id>http://toasthaiku.net/2011/02/05/red-fabric</id>
    <content type="html">This is really beautiful. A piece of red fabric floats and dances in a vortex of wind created by a circle of fans. The longer you watch it, the more it seems to be moving on its own, like a dancer.
@@ -26,18 +35,18 @@
  
  <entry>
    <title>Match Lighting at 2000 Frames Per Second</title>
-   <link href="http://toasthaiku.net/2011/01/08/match-lighting-at-2000-frames-per-second.html"/>
+   <link href="http://toasthaiku.net/2011/01/08/match-lighting-at-2000-frames-per-second"/>
    <updated>2011-01-08T16:30:56-08:00</updated>
    <id>http://toasthaiku.net/2011/01/08/match-lighting-at-2000-frames-per-second</id>
    <content type="html">In the spirit of the &lt;a href=&quot;http://toasthaiku.net/2009/02/07/ligher-in-a-blender/&quot;&gt;slow-motion exploding lighter in a blender&lt;/a&gt;, here's a video of a match lighting at 2000 frames per second. It takes 2 1/2 minutes to finish lighting!
 
-&lt;p style=&quot;text-align: center;&quot;&gt;&lt;iframe title=&quot;YouTube video player&quot; width=&quot;450&quot; height=&quot;283&quot; src=&quot;http://www.youtube.com/embed/1P4LkyWyHfM?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;iframe title=&quot;YouTube video player&quot; width=&quot;530&quot; height=&quot;299&quot; src=&quot;http://www.youtube.com/embed/1P4LkyWyHfM?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Slow-Motion Shuttle Launch Videos</title>
-   <link href="http://toasthaiku.net/2010/12/12/slow-motion-shuttle-launch-videos.html"/>
+   <link href="http://toasthaiku.net/2010/12/12/slow-motion-shuttle-launch-videos"/>
    <updated>2010-12-12T14:52:29-08:00</updated>
    <id>http://toasthaiku.net/2010/12/12/slow-motion-shuttle-launch-videos</id>
    <content type="html">NASA has released this 45-minute compilation of space shuttle launches filmed at up to 400 frames per second from various angles.  You can see plumes of hydrogen gas billow and ignite, explosive bolts releasing boosters from the platform, and chunks of ice tumbling slowly. [&lt;a href=&quot;http://www.youtube.com/watch?v=W2VygftZSCs&quot; target=&quot;_blank&quot;&gt;YouTube&lt;/a&gt;]
@@ -48,7 +57,7 @@
  
  <entry>
    <title>Sea Monster Attack Litigation</title>
-   <link href="http://toasthaiku.net/2010/03/21/sea-monster-attack-litigation.html"/>
+   <link href="http://toasthaiku.net/2010/03/21/sea-monster-attack-litigation"/>
    <updated>2010-03-21T17:40:47-07:00</updated>
    <id>http://toasthaiku.net/2010/03/21/sea-monster-attack-litigation</id>
    <content type="html">At the Law Offices of Lynch &amp;amp; Reynolds, we specialize in representing the victims of personal injury resulting from sea monster attack. At a recent &lt;a href=&quot;http://www.false-profit.com/2010/03/20/to-the-docks/&quot; target=&quot;_blank&quot;&gt;symposium for sea monster experts&lt;/a&gt; in San Francisco, we handed out a questionnaire to potential clients. We present here the data we gathered, as well as the harrowing tales of nautical woe from the victims themselves.
@@ -120,7 +129,7 @@
  
  <entry>
    <title>The Eigenharp</title>
-   <link href="http://toasthaiku.net/2009/10/08/the-eigenharp.html"/>
+   <link href="http://toasthaiku.net/2009/10/08/the-eigenharp"/>
    <updated>2009-10-08T13:03:31-07:00</updated>
    <id>http://toasthaiku.net/2009/10/08/the-eigenharp</id>
    <content type="html">&lt;p&gt;The &lt;a href=&quot;http://www.eigenlabs.com&quot; target=&quot;_blank&quot;&gt;Eigenharp&lt;/a&gt; is a new electronic performance instrument designed to maximize expressive control of modern virtual software instruments. It has 120 keys arranged in a 5x24 grid, each of which can register 2048 levels of pressure in 3 dimensions. This means you could play a chord with your left hand, and use each finger to simultaneously alter the pitch, volume, and expression of each note of the chord (or any other parameters of your choice). That leaves your other hand free to play a drum rhythm on the 12 additional percussion keys, or to use another part of the keyboard as a programmable looping pattern sequencer. There's also a mouthpiece for breath control, two ribbon expression controllers on the sides, LED indicators on each key, etc. Check out the video of the product launch at &lt;a href=&quot;http://www.sonicstate.com/news/2009/10/06/eigenharp-officially-relased-first-look-video/&quot; target=&quot;_blank&quot;&gt;Sonic State&lt;/a&gt;, or learn more at &lt;a href=&quot;http://www.eigenlabs.com&quot; target=&quot;_blank&quot;&gt;Eigenlabs&lt;/a&gt;' website.&lt;/p&gt;
@@ -133,7 +142,7 @@
  
  <entry>
    <title>In Bb</title>
-   <link href="http://toasthaiku.net/2009/05/23/in-bb.html"/>
+   <link href="http://toasthaiku.net/2009/05/23/in-bb"/>
    <updated>2009-05-23T12:47:47-07:00</updated>
    <id>http://toasthaiku.net/2009/05/23/in-bb</id>
    <content type="html">&lt;p&gt;In the YouTube mash-up spirit of &lt;a href=&quot;http://thru-you.com/&quot; target=&quot;_blank&quot;&gt;Kutiman&lt;/a&gt;, a project called &lt;a href=&quot;http://www.inbflat.net/&quot; target=&quot;_blank&quot;&gt;In Bb&lt;/a&gt; presents you with a grid of unrelated YouTube videos that all happen to be in the key of B-flat. There is no percussion or meter, so things will always blend together smoothly no matter when you start or stop each video. Try to resist the urge to play them all at once - turn on a couple at a time, then add new ones as time goes on. The effect is incredibly beautiful.&lt;/p&gt;
@@ -146,7 +155,7 @@
  
  <entry>
    <title>Dashuhua</title>
-   <link href="http://toasthaiku.net/2009/03/29/dashuhua.html"/>
+   <link href="http://toasthaiku.net/2009/03/29/dashuhua"/>
    <updated>2009-03-29T04:18:29-07:00</updated>
    <id>http://toasthaiku.net/2009/03/29/dashuhua</id>
    <content type="html">&lt;p&gt;Farmers in Nuanquan, China, too poor to afford fireworks to celebrate the new year, instead melt down scrap metal and hurl it against a wall, creating a brilliant spray of sparks and molten iron. Their only protection is a sheepskin coat and a hat. &lt;a href=&quot;http://www.diagonal-view.com/v/402/molten-iron-throwing.html&quot; target=&quot;_blank&quot;&gt;[video]&lt;/a&gt;&lt;/p&gt;
@@ -159,7 +168,7 @@
  
  <entry>
    <title>Lighter in a Blender</title>
-   <link href="http://toasthaiku.net/2009/02/07/ligher-in-a-blender.html"/>
+   <link href="http://toasthaiku.net/2009/02/07/ligher-in-a-blender"/>
    <updated>2009-02-07T02:05:14-08:00</updated>
    <id>http://toasthaiku.net/2009/02/07/ligher-in-a-blender</id>
    <content type="html">&lt;p&gt;There's a new show on the Discovery Channel called &quot;&lt;a href=&quot;http://discovery.com/timewarp&quot; target=&quot;_blank&quot;&gt;Time Warp&lt;/a&gt;&quot; - it features extreme slow-motion footage of events that happen very fast, such as what happens when you put a &lt;a href=&quot;http://www.youtube.com/watch?v=GGPsBz-Xte8&quot; target=&quot;_blank&quot;&gt;lighter in a blender&lt;/a&gt;:&lt;br /&gt;&lt;/p&gt;
@@ -172,7 +181,7 @@
  
  <entry>
    <title>Pierre Bastien</title>
-   <link href="http://toasthaiku.net/2008/08/12/pierre-bastien.html"/>
+   <link href="http://toasthaiku.net/2008/08/12/pierre-bastien"/>
    <updated>2008-08-12T13:20:59-07:00</updated>
    <id>http://toasthaiku.net/2008/08/12/pierre-bastien</id>
    <content type="html">&lt;p&gt;French composer &lt;a href=&quot;http://www.pierrebastien.com/&quot; target=&quot;_blank&quot;&gt;Pierre Bastien&lt;/a&gt; builds small mechanical musical devices, which click and whirr and play somber melodies on keyboards as he follows along on his muted trumpet, occasionally reaching over to adjust a lever or attach a new part. It's an intimate and introspective affair.&lt;/p&gt;
@@ -183,7 +192,7 @@
  
  <entry>
    <title>Dmitry Maksimov</title>
-   <link href="http://toasthaiku.net/2008/08/12/dmitry-maksimov.html"/>
+   <link href="http://toasthaiku.net/2008/08/12/dmitry-maksimov"/>
    <updated>2008-08-12T13:10:47-07:00</updated>
    <id>http://toasthaiku.net/2008/08/12/dmitry-maksimov</id>
    <content type="html">&lt;p&gt;Dmitry Maksimov works in a variety of styles and media, but I'm most fascinated by his photo illustrations that show small characters going about their mysterious business in realistic settings with narrow depth-of-field. It's a fleeting glimpse into a cute and spooky world. Visit &lt;a href=&quot;http://tebe-interesno.livejournal.com&quot; title=&quot;Dmitry Maksimov&quot; target=&quot;_blank&quot;&gt;the artist's site&lt;/a&gt; (it's in Russian, but just scroll down for the images).&lt;/p&gt;
@@ -196,7 +205,7 @@
  
  <entry>
    <title>I Met The Walrus</title>
-   <link href="http://toasthaiku.net/2008/08/12/i-met-the-walrus.html"/>
+   <link href="http://toasthaiku.net/2008/08/12/i-met-the-walrus"/>
    <updated>2008-08-12T12:55:27-07:00</updated>
    <id>http://toasthaiku.net/2008/08/12/i-met-the-walrus</id>
    <content type="html">&lt;p&gt;&quot;In 1969, a 14-year-old Beatle fanatic named Jerry Levitan, armed with a reel-to-reel tape deck, snuck into John Lennon's hotel room in Toronto and convinced John to do an interview about peace. 38 years later, Jerry has produced a film about it. Using the original interview recording as the soundtrack, director Josh Raskin has woven a visual narrative which tenderly romances Lennon's every word in a cascading flood of multipronged animation. Raskin marries the terrifyingly genius pen work of James Braithwaite with masterful digital illustration by Alex Kurina, resulting in a spell-binding vessel for Lennon's boundless wit, and timeless message.&quot; &lt;a href=&quot;http://www.youtube.com/watch?v=jmR0V6s3NKk&amp;amp;fmt=6&quot; title=&quot;I Met the Walrus&quot; target=&quot;_blank&quot;&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;
@@ -207,7 +216,7 @@
  
  <entry>
    <title>Robotic Jellyfish</title>
-   <link href="http://toasthaiku.net/2008/04/29/robotic-jellyfish.html"/>
+   <link href="http://toasthaiku.net/2008/04/29/robotic-jellyfish"/>
    <updated>2008-04-29T14:59:56-07:00</updated>
    <id>http://toasthaiku.net/2008/04/29/robotic-jellyfish</id>
    <content type="html">&lt;p&gt;Researchers at automation technology company &lt;a href=&quot;http://www.festo.com&quot; target=&quot;_blank&quot;&gt;Festo&lt;/a&gt; have developed what just might be the Best Robot Ever. They've made a version that swims in the air using helium and lightweight tentacles, as well as one that swims underwater. Totally mesmerizing - check out &lt;a href=&quot;http://www.engadget.com/2008/04/28/festo-airjelly-flies-through-the-air-with-the-greatest-of-ease/&quot; target=&quot;_blank&quot;&gt;the video!&lt;/a&gt;&lt;/p&gt;
@@ -220,7 +229,7 @@
  
  <entry>
    <title>Lake Baikal</title>
-   <link href="http://toasthaiku.net/2008/04/22/lake-baikal.html"/>
+   <link href="http://toasthaiku.net/2008/04/22/lake-baikal"/>
    <updated>2008-04-22T12:42:21-07:00</updated>
    <id>http://toasthaiku.net/2008/04/22/lake-baikal</id>
    <content type="html">&lt;p&gt;Best. Lake. Ever. &lt;a href=&quot;http://en.wikipedia.org/wiki/Lake_Baikal&quot; target=&quot;_blank&quot;&gt;Lake Baikal&lt;/a&gt;, in southern Siberia in Russia, contains over 20% of the world's fresh water and is home to over 1700 species of plants and animals, of which two thirds are found nowhere else. Although less than half the surface area of &lt;a href=&quot;http://en.wikipedia.org/wiki/Lake_Superior&quot; target=&quot;_blank&quot;&gt;Lake Superior&lt;/a&gt;, it's over a mile deep, comprised of an ancient rift valley where the Earth's crust is pulling apart at two centimeters per year. As the rift has expanded over the millenia, it has filled in with a layer of sediment that is now four miles deep.&lt;/p&gt;
@@ -234,7 +243,7 @@
  
  <entry>
    <title>The Most Unwanted Song</title>
-   <link href="http://toasthaiku.net/2008/04/22/the-most-unwanted-song.html"/>
+   <link href="http://toasthaiku.net/2008/04/22/the-most-unwanted-song"/>
    <updated>2008-04-22T12:17:42-07:00</updated>
    <id>http://toasthaiku.net/2008/04/22/the-most-unwanted-song</id>
    <content type="html">&lt;p&gt;In the late 1990s, artists &lt;a href=&quot;http://www.diacenter.org/km/&quot; target=&quot;_blank&quot;&gt;Vitaly Komar and Alex Melamid&lt;/a&gt;, along with composer &lt;a href=&quot;http://en.wikipedia.org/wiki/Dave_Soldier&quot; target=&quot;_blank&quot;&gt;David Soldier&lt;/a&gt;, polled 500 music listeners to determine the least desirable musical qualities. They compiled their data and then composed a piece of music that incorporated as many of these qualities as possible, titling the final product &quot;The Most Unwanted Song&quot;. The folks polled apparently don't like rap music, sopranos, or songs about cowboys, so their song prominently features a soprano rapping about cowboys. Other features include tubas, banjos, accordions, sudden changes in dynamics and tempo, children's choirs singing about holidays (Labor Day, Ramadan) and corporations (Wal Mart, Coca Cola), and an uncomfortable length of 25 minutes.&lt;/p&gt;
@@ -248,7 +257,7 @@
  
  <entry>
    <title>The V-2 Rocket</title>
-   <link href="http://toasthaiku.net/2008/04/22/the-v-2-rocket.html"/>
+   <link href="http://toasthaiku.net/2008/04/22/the-v-2-rocket"/>
    <updated>2008-04-22T12:00:18-07:00</updated>
    <id>http://toasthaiku.net/2008/04/22/the-v-2-rocket</id>
    <content type="html">&lt;p&gt;The &lt;a href=&quot;http://en.wikipedia.org/wiki/V2_rocket&quot; target=&quot;_blank&quot;&gt;V-2 rocket&lt;/a&gt;, produced by Nazi Germany during World War II, was the first man-made object to achieve suborbital spaceflight and was the precursor to all modern rockets, including those used for human spaceflight. Germany launched over 3,000 of them at Allied countries up through 1945, claiming 7,000 military and civilian lives, mostly in London and Antwerp, as well the 25,000 slave laborers who died while being forced to produce them.&lt;/p&gt;
@@ -264,7 +273,7 @@
  
  <entry>
    <title>D. B. Cooper</title>
-   <link href="http://toasthaiku.net/2008/04/02/d-b-cooper.html"/>
+   <link href="http://toasthaiku.net/2008/04/02/d-b-cooper"/>
    <updated>2008-04-02T01:20:20-07:00</updated>
    <id>http://toasthaiku.net/2008/04/02/d-b-cooper</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/D_b_cooper&quot; title=&quot;Wikipedia article&quot; target=&quot;_blank&quot;&gt;D. B. Cooper&lt;/a&gt; was the alias of a man who hijacked a Boeing 727 in 1972 and then disappeared after parachuting out of the plane. The dapper man in a crisp suit passed a note to a flight attendant claiming he had a bomb in his suitcase. He demanded $200,000 in unmarked $20 bills, and four parachutes. After the plane landed and officials met his demands, he released the passengers and told the crew to take the plane back into the air. Then, somewhere over the Pacific Northwest, he opened the rear stairway of the plane and, strapped into a parachute and clutching the briefcase full of cash, leapt into a furious rainstorm, never to be seen again. It is unknown if he survived the jump, but in 1980 about $5000 of the bills he had been given by the FBI were found in the mud on the banks of the Columbia river. It is not known if they were buried or just washed up there.&lt;/p&gt;
@@ -277,7 +286,7 @@
  
  <entry>
    <title>Plasma Lightbulb</title>
-   <link href="http://toasthaiku.net/2008/03/21/plasma-lightbulb.html"/>
+   <link href="http://toasthaiku.net/2008/03/21/plasma-lightbulb"/>
    <updated>2008-03-21T08:57:37-07:00</updated>
    <id>http://toasthaiku.net/2008/03/21/plasma-lightbulb</id>
    <content type="html">&lt;p&gt;Silicon Valley company &lt;a href=&quot;http://luxim.com&quot; title=&quot;Luxim&quot; target=&quot;_blank&quot;&gt;Luxim&lt;/a&gt; has created the most efficient light source yet, at 140 lumens (units of light output) per watt. For comparison, today's most efficient LEDs only produce 70 lumens per watt, and a normal incandescent bulb produces a measly 15. They have produced a bulb the size of a Tic Tac that produces as much light as a street lamp using a fraction of the power. They use an electrical charge tightly focused into a small capsule of argon gas. The argon turns into a 6000 degree plasma, as hot as the surface of the sun - which is the reason why the light it emits has the same spectrum as natural sunlight. Check out the &lt;a href=&quot;http://www.news.com/Luxims-tiny-but-powerful-plasma-lightbulb/1606-2_3-6234653.html&quot; title=&quot;CNET video&quot; target=&quot;_blank&quot;&gt;CNET video&lt;/a&gt; to see it in action.&lt;/p&gt;
@@ -290,7 +299,7 @@
  
  <entry>
    <title>Bruce Dickinson is Awesome</title>
-   <link href="http://toasthaiku.net/2008/03/21/bruce-dickinson-is-awesome.html"/>
+   <link href="http://toasthaiku.net/2008/03/21/bruce-dickinson-is-awesome"/>
    <updated>2008-03-21T08:39:07-07:00</updated>
    <id>http://toasthaiku.net/2008/03/21/bruce-dickinson-is-awesome</id>
    <content type="html">&lt;p&gt;So Bruce is the lead singer for this heavy metal band called &lt;a href=&quot;http://en.wikipedia.org/wiki/Iron_Maiden&quot; title=&quot;Iron Maiden on Wikipedia&quot; target=&quot;_blank&quot;&gt;Iron Maiden&lt;/a&gt;, which was pretty big in the 80's but is still rocking out today. As if being the lead singer for Iron Maiden wasn't awesome enough, Bruce was also really into fencing and competed internationally, and started his own &lt;a href=&quot;http://ww.duellist.com&quot; title=&quot;Duellist&quot; target=&quot;_blank&quot;&gt;fencing equipment company&lt;/a&gt;. And as if being the lead singer of Iron Maiden and being a top international fencer wasn't awesome enough, Bruce also decided to become an airline pilot and now flies Boeing 757 jets for a &lt;a href=&quot;http://www.flystar.com&quot; title=&quot;Astraeus&quot; target=&quot;_blank&quot;&gt;UK charter airline&lt;/a&gt;. Then, in a final coup de awesome, he had a 757 &lt;a href=&quot;http://blogto.com/city/2008/03/iron_maiden_land_in_toronto/&quot; title=&quot;Bruce's plane&quot; target=&quot;_blank&quot;&gt;painted with the Iron Maiden logo&lt;/a&gt;, climbed into the pilot's seat, and flew his band on their world tour. &lt;a href=&quot;http://en.wikipedia.org/wiki/Bruce_dickinson&quot; title=&quot;Bruce on Wikipedia&quot; target=&quot;_blank&quot;&gt;Bruce Dickinson&lt;/a&gt;, you're awesome.&lt;/p&gt;
@@ -303,7 +312,7 @@
  
  <entry>
    <title>Direct Note Access</title>
-   <link href="http://toasthaiku.net/2008/03/13/direct-note-access.html"/>
+   <link href="http://toasthaiku.net/2008/03/13/direct-note-access"/>
    <updated>2008-03-13T17:14:05-07:00</updated>
    <id>http://toasthaiku.net/2008/03/13/direct-note-access</id>
    <content type="html">&lt;p&gt;Music software company &lt;a href=&quot;http://www.celemony.com&quot; target=&quot;_blank&quot;&gt;Celemony&lt;/a&gt; has announced the latest version of their pitch correction software, &lt;a href=&quot;http://www.celemony.com/cms/index.php?id=dna&quot; title=&quot;Melodyne DNA&quot; target=&quot;_blank&quot;&gt;Melodyne&lt;/a&gt;. While it's been possible for &lt;a href=&quot;http://en.wikipedia.org/wiki/Pitch_correction&quot; title=&quot;pitch correction on Wikipedia&quot; target=&quot;_blank&quot;&gt;quite some time&lt;/a&gt; to use software to correct or change an individual note in a recorded melody, until now it's only been able to do that with a monophonic melody, meaning only one note is playing at a time, such as a voice or a flute. The breakthrough is that they've finally made it possible to actually access all of the notes in a polyphonic recording, such as a strumming guitar or a chorus of voices. The software extracts each note and displays it in a grid, where time goes from left to right and pitch goes from bottom to top. You can then select each individual note with your mouse and move it up or down in pitch, forward or backwards in time, adjust it louder or quieter in volume. You can use this as a tool to make subtle corrections, or &lt;a href=&quot;http://www.celemony.com/cms/index.php?id=dna_intro3&quot; target=&quot;_blank&quot;&gt;create a whole new piece&lt;/a&gt; with the same instrument. Check out the &lt;a href=&quot;http://www.celemony.com/cms/index.php?id=dna&quot; title=&quot;Melodyne DNA&quot; target=&quot;_blank&quot;&gt;video&lt;/a&gt; to see it in action (and forgive the poor voiceover announcer for not knowing how to pronounce &quot;monophonic&quot; or &quot;MIDI&quot;).&lt;/p&gt;
@@ -313,7 +322,7 @@
  
  <entry>
    <title>Rarindra Prakarsa</title>
-   <link href="http://toasthaiku.net/2008/02/07/rarindra-prakarsa.html"/>
+   <link href="http://toasthaiku.net/2008/02/07/rarindra-prakarsa"/>
    <updated>2008-02-07T09:49:30-08:00</updated>
    <id>http://toasthaiku.net/2008/02/07/rarindra-prakarsa</id>
    <content type="html">&lt;p&gt;Indonesian photographer &lt;a href=&quot;http://photo.net/photodb/member-photos?user_id=2231437&amp;amp;include=all&quot; target=&quot;_blank&quot;&gt;Rarindra Prakarsa&lt;/a&gt; conjures magical vignettes of misty rainforests, with sunbeams peaking through to illuminate his characters from behind like scenes from a fairy tale. I suspect there's more than a little photoshopping going on here, but the result is breathtaking.&lt;/p&gt;
@@ -326,7 +335,7 @@
  
  <entry>
    <title>Martin Amm</title>
-   <link href="http://toasthaiku.net/2008/02/07/martin-amm.html"/>
+   <link href="http://toasthaiku.net/2008/02/07/martin-amm"/>
    <updated>2008-02-07T09:31:10-08:00</updated>
    <id>http://toasthaiku.net/2008/02/07/martin-amm</id>
    <content type="html">&lt;p style=&quot;text-align: left;&quot;&gt;&lt;a href=&quot;http://photo.net/photodb/member-photos?user_id=2109438&quot; target=&quot;_blank&quot;&gt;Martin Amm&lt;/a&gt; specializes in nature &lt;a href=&quot;http://en.wikipedia.org/wiki/Macro_photography&quot; target=&quot;_blank&quot;&gt;macro photography&lt;/a&gt;. This photo of &lt;a href=&quot;http://photo.net/photodb/photo?photo_id=6687694&quot; target=&quot;_blank&quot;&gt;fly beaded in morning dew&lt;/a&gt; (a small section of which I've cropped below) is my favorite shot, but you should check out his &lt;a href=&quot;http://photo.net/photodb/member-photos?user_id=2109438&quot; target=&quot;_blank&quot;&gt;whole gallery&lt;/a&gt;.&lt;/p&gt;
@@ -336,7 +345,7 @@
  
  <entry>
    <title>Frozen Grand Central</title>
-   <link href="http://toasthaiku.net/2008/02/01/frozen-grand-central.html"/>
+   <link href="http://toasthaiku.net/2008/02/01/frozen-grand-central"/>
    <updated>2008-02-01T14:41:29-08:00</updated>
    <id>http://toasthaiku.net/2008/02/01/frozen-grand-central</id>
    <content type="html">&lt;p&gt;This is just too cool for words. One winter day in New York City, 207 people casually wandered into Grand Central Station. At exactly 2:30 pm, they all &lt;a href=&quot;http://www.improveverywhere.com/2008/01/31/frozen-grand-central/://www.improveverywhere.com/2008/01/31/frozen-grand-central/&quot; target=&quot;_blank&quot;&gt;froze in place&lt;/a&gt; like statues, confusing the many bystanders and official-looking people around them. Exactly 5 minutes later, they all continued on with their business as if nothing had happened.&lt;/p&gt;
@@ -350,7 +359,7 @@
  
  <entry>
    <title>Dan Liebert's Pet Peeves</title>
-   <link href="http://toasthaiku.net/2008/01/29/dan-lieberts-pet-peeves.html"/>
+   <link href="http://toasthaiku.net/2008/01/29/dan-lieberts-pet-peeves"/>
    <updated>2008-01-29T00:23:58-08:00</updated>
    <id>http://toasthaiku.net/2008/01/29/dan-lieberts-pet-peeves</id>
    <content type="html">&lt;ul&gt;
@@ -365,7 +374,7 @@
  
  <entry>
    <title>Will Ashford</title>
-   <link href="http://toasthaiku.net/2008/01/28/will-ashford.html"/>
+   <link href="http://toasthaiku.net/2008/01/28/will-ashford"/>
    <updated>2008-01-28T18:56:41-08:00</updated>
    <id>http://toasthaiku.net/2008/01/28/will-ashford</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://web.mac.com/washford/Wills_Words/Artists_Statement.html&quot; target=&quot;_blank&quot;&gt;Will Ashford&lt;/a&gt; takes pages from old books and creates &lt;a href=&quot;http://web.mac.com/washford/Wills_Words/Images.html&quot; target=&quot;_blank&quot;&gt;new works of art&lt;/a&gt;, obscuring or emphasizing certain words or letters through the use of inks, pencils, and translucent colored vellums.&lt;/p&gt;
@@ -378,7 +387,7 @@
  
  <entry>
    <title>Scientology</title>
-   <link href="http://toasthaiku.net/2008/01/28/scientology.html"/>
+   <link href="http://toasthaiku.net/2008/01/28/scientology"/>
    <updated>2008-01-28T13:04:07-08:00</updated>
    <id>http://toasthaiku.net/2008/01/28/scientology</id>
    <content type="html">The &lt;a href=&quot;http://en.wikipedia.org/wiki/Scientology&quot; target=&quot;_blank&quot;&gt;Church of Scientology&lt;/a&gt; was founded in 1953 by science fiction author &lt;a href=&quot;http://en.wikipedia.org/wiki/L._Ron_Hubbard&quot; target=&quot;_blank&quot;&gt;L. Ron Hubbard&lt;/a&gt; as an extension of his self-help book &lt;a href=&quot;http://en.wikipedia.org/wiki/Dianetics&quot; target=&quot;_blank&quot;&gt;Dianetics&lt;/a&gt;. That book claimed that all of a person's psychological problems can be traced back to unconscious traumatic memories. Scientology teaches that those traumas were actually experienced by (or implanted into) the thousands of alien spirits that have possessed each person's body. The eventual goal of a Scientologist is to purge those alien spirits in order to achieve what is known as the &quot;&lt;a href=&quot;http://en.wikipedia.org/wiki/Clear_%28Scientology%29&quot; target=&quot;_blank&quot;&gt;State of Clear&lt;/a&gt;.&quot;
@@ -396,7 +405,7 @@ Scientology teaches that you and I, until we have achieved the State of Clear, a
  
  <entry>
    <title>Records on X-Ray Film</title>
-   <link href="http://toasthaiku.net/2008/01/25/records-on-x-ray-film.html"/>
+   <link href="http://toasthaiku.net/2008/01/25/records-on-x-ray-film"/>
    <updated>2008-01-25T19:54:28-08:00</updated>
    <id>http://toasthaiku.net/2008/01/25/records-on-x-ray-film</id>
    <content type="html">&lt;p&gt;In Hungary during World War II, vinyl for making records was hard to come by. So some clever folks used discarded medical X-ray film instead. Jozsef Hajdu presents &lt;a href=&quot;http://www.digibodies.org/hajdu.html&quot; target=&quot;_blank&quot;&gt;some fine examples&lt;/a&gt;.&lt;/p&gt;
@@ -408,7 +417,7 @@ Scientology teaches that you and I, until we have achieved the State of Clear, a
  
  <entry>
    <title>Thought Experiment #1: The End of Friction</title>
-   <link href="http://toasthaiku.net/2008/01/24/thought-experiment-1-the-end-of-friction.html"/>
+   <link href="http://toasthaiku.net/2008/01/24/thought-experiment-1-the-end-of-friction"/>
    <updated>2008-01-24T12:42:43-08:00</updated>
    <id>http://toasthaiku.net/2008/01/24/thought-experiment-1-the-end-of-friction</id>
    <content type="html">&lt;p&gt;December 21, 2012, marks the end of the 12th b'ak'tun of the ancient &lt;a href=&quot;http://en.wikipedia.org/wiki/Mesoamerican_Long_Count_calendar&quot; target=&quot;_blank&quot;&gt;Mayan Long Count calendar&lt;/a&gt;. Some unimaginative types speculate that the start of the 13th b'ak'tun, the last day of the Mayan calendar, signifies some sort of transfiguring shift, such as a world-ending catastrophe, perhaps at the hands of &lt;a href=&quot;http://en.wikipedia.org/wiki/Quetzalcoatl&quot; target=&quot;_blank&quot;&gt;Quetzalcoatl&lt;/a&gt;. I'd like to propose a much more novel shift: the End of Friction.&lt;/p&gt;
@@ -425,7 +434,7 @@ Scientology teaches that you and I, until we have achieved the State of Clear, a
  
  <entry>
    <title>Library of Dust</title>
-   <link href="http://toasthaiku.net/2008/01/23/library-of-dust.html"/>
+   <link href="http://toasthaiku.net/2008/01/23/library-of-dust"/>
    <updated>2008-01-23T15:50:14-08:00</updated>
    <id>http://toasthaiku.net/2008/01/23/library-of-dust</id>
    <content type="html">David Maisel's &lt;a href=&quot;http://www.davidmaisel.com/works/picture.asp?cat=lod&amp;amp;tl=library%20of%20dust&quot; target=&quot;_blank&quot;&gt;Library of Dust&lt;/a&gt; consists of photographs of copper canisters containing the cremated remains of patients at a &lt;a href=&quot;http://en.wikipedia.org/wiki/Oregon_State_Hospital&quot; target=&quot;_blank&quot;&gt;state-run psychiatric hospital&lt;/a&gt; (the same one where &lt;a href=&quot;http://en.wikipedia.org/wiki/One_Flew_Over_the_Cuckoo%E2%80%99s_Nest&quot; target=&quot;_blank&quot;&gt;One Flew Over the Cuckoo's Nest&lt;/a&gt; was filmed). These initially plain and utilitarian urns are now bursting with color and texture as the ashes have interacted with the metals over the decades, imparting uniqueness and personality in defiance of their anonymity.
@@ -435,7 +444,7 @@ Scientology teaches that you and I, until we have achieved the State of Clear, a
  
  <entry>
    <title>The Amber Room</title>
-   <link href="http://toasthaiku.net/2008/01/23/the-amber-room.html"/>
+   <link href="http://toasthaiku.net/2008/01/23/the-amber-room"/>
    <updated>2008-01-23T15:30:10-08:00</updated>
    <id>http://toasthaiku.net/2008/01/23/the-amber-room</id>
    <content type="html">In 1716, the &lt;a href=&quot;http://en.wikipedia.org/wiki/Frederick_I_of_Prussia&quot; target=&quot;_blank&quot;&gt;King of Prussia&lt;/a&gt; gave Russian czar &lt;a href=&quot;http://en.wikipedia.org/wiki/Peter_The_Great&quot; target=&quot;_blank&quot;&gt;Peter the Great&lt;/a&gt; a gift of a 180-square foot room encrusted with six tons of amber panels backed with gold leaf, aptly known as &lt;a href=&quot;http://www.smithsonianmag.com/history-archaeology/world-history/brief_amber.html&quot; target=&quot;_blank&quot;&gt;The Amber Room&lt;/a&gt;. Invading Nazis looted the room in 1941, packing the amber into crates and hightailing it back to Germany. The missing panels have never been found.
@@ -445,7 +454,7 @@ Scientology teaches that you and I, until we have achieved the State of Clear, a
  
  <entry>
    <title>Blackbeard the Pirate</title>
-   <link href="http://toasthaiku.net/2008/01/23/blackbeard-the-pirate.html"/>
+   <link href="http://toasthaiku.net/2008/01/23/blackbeard-the-pirate"/>
    <updated>2008-01-23T15:16:20-08:00</updated>
    <id>http://toasthaiku.net/2008/01/23/blackbeard-the-pirate</id>
    <content type="html">&lt;a href=&quot;http://en.wikipedia.org/wiki/Blackbeard&quot; title=&quot;Wikipedia article&quot; target=&quot;_blank&quot;&gt;Blackbeard the Pirate&lt;/a&gt; was a total badass. His real name was Edward Teach, but nobody is sure if he was born in London, Bristol, Philadelphia, or Jamaica. His reign of terror lasted only about six years, from 1713 to 1718, in the seas between the Bahamas and the Carolinas. In particular, he spent a lot of time terrorizing the coast of North Carolina, and even delivered booty to governor Charles Eden in exchange for protection and an official pardon. In 1718, he blockaded Charleston Harbor in South Carolina, plundering five merchant vessels before he was through. Later that year, Blackbeard met his end at the hands of British Lieutenant Robert Maynard when a price of 100 pounds was put on his head. According to legend, in his final battle Blackbeard was shot five times and stabbed more than 20 times before he went down, and his headless body is said to have swum circles around his ship seven times before it sank.
@@ -457,7 +466,7 @@ However, it is unclear who would have won had he done &lt;a href=&quot;http://ww
  
  <entry>
    <title>Inside-Out Teddy Bears</title>
-   <link href="http://toasthaiku.net/2008/01/23/inside-out-teddy-bears.html"/>
+   <link href="http://toasthaiku.net/2008/01/23/inside-out-teddy-bears"/>
    <updated>2008-01-23T14:54:49-08:00</updated>
    <id>http://toasthaiku.net/2008/01/23/inside-out-teddy-bears</id>
    <content type="html">&lt;p style=&quot;text-align: left;&quot;&gt;Artist Kent Rogowski turns teddy bears inside-out and restuffs them. I love these &lt;a href=&quot;http://www.kentrogowski.com/bears.html&quot; target=&quot;_blank&quot;&gt;plucky little freaks&lt;/a&gt;!&lt;a href=&quot;http://www.kentrogowski.com/bears.html&quot; target=&quot;_blank&quot;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -469,7 +478,7 @@ However, it is unclear who would have won had he done &lt;a href=&quot;http://ww
  
  <entry>
    <title>Large Helical Device</title>
-   <link href="http://toasthaiku.net/2008/01/08/large-helical-device.html"/>
+   <link href="http://toasthaiku.net/2008/01/08/large-helical-device"/>
    <updated>2008-01-08T09:53:13-08:00</updated>
    <id>http://toasthaiku.net/2008/01/08/large-helical-device</id>
    <content type="html">In addition to being the most awesome-looking piece of machinery I have ever seen, the &lt;a href=&quot;http://www.lhd.nifs.ac.jp/en/home/lhd.html&quot; title=&quot;Large Helical Device official site&quot; target=&quot;_blank&quot;&gt;Large Helical Device&lt;/a&gt; is billed as the &quot;largest superconducting stellarator in the world&quot;.  This Japanese fusion research device consists of intertwined coils of superconducting material, and is designed to contain a 100-million-degree nuclear fusion plasma.  The research aims to solve the many engineering challenges that must be overcome in order for fusion reactors to produce more energy than they consume.
@@ -479,7 +488,7 @@ However, it is unclear who would have won had he done &lt;a href=&quot;http://ww
  
  <entry>
    <title>Mormonism</title>
-   <link href="http://toasthaiku.net/2008/01/06/mormonism.html"/>
+   <link href="http://toasthaiku.net/2008/01/06/mormonism"/>
    <updated>2008-01-06T13:50:38-08:00</updated>
    <id>http://toasthaiku.net/2008/01/06/mormonism</id>
    <content type="html">&lt;a href=&quot;http://en.wikipedia.org/wiki/Latter_Day_Saint_movement&quot; target=&quot;_blank&quot;&gt;The Latter Day Saint movement&lt;/a&gt; was founded in 1827 by New Yorker &lt;a href=&quot;http://en.wikipedia.org/wiki/Joseph_Smith%2C_Jr.&quot; target=&quot;_blank&quot;&gt;Joseph Smith, Jr.&lt;/a&gt;  In the early 1820s, Smith was paid to (mostly unsuccessfully) attempt to find lost items and buried treasures by &lt;a href=&quot;http://en.wikipedia.org/wiki/Seer_stones_and_the_Latter_Day_Saint_movement&quot; target=&quot;_blank&quot;&gt;peering into stones&lt;/a&gt; and finding the necessary information contained in the stone's reflections.
@@ -495,7 +504,7 @@ Mormons who have participated in a special &lt;a href=&quot;http://en.wikipedia.
  
  <entry>
    <title>Korean Hangul</title>
-   <link href="http://toasthaiku.net/2008/01/02/korean-hangul.html"/>
+   <link href="http://toasthaiku.net/2008/01/02/korean-hangul"/>
    <updated>2008-01-02T11:01:09-08:00</updated>
    <id>http://toasthaiku.net/2008/01/02/korean-hangul</id>
    <content type="html">In the middle of the 15th century, Korea was still using &lt;a href=&quot;http://en.wikipedia.org/wiki/Chinese_character&quot; title=&quot;Wikipedia entry&quot; target=&quot;_blank&quot;&gt;Chinese characters&lt;/a&gt; for their written language, despite having a very different spoken language.  &lt;a href=&quot;http://en.wikipedia.org/wiki/Sejong_the_Great&quot; title=&quot;Wikipedia entry&quot; target=&quot;_blank&quot;&gt;King Sejong&lt;/a&gt; argued that the Chinese script, with its thousands of characters, was too complicated for commoners to learn and was awkward due to the differences between spoken Chinese and Korean.  So in 1446 he published a &lt;a href=&quot;http://en.wikipedia.org/wiki/Hunmin_Jeongeum&quot; title=&quot;Wikipedia entry&quot; target=&quot;_blank&quot;&gt;document&lt;/a&gt; demonstrating a new writing system, &lt;a href=&quot;http://en.wikipedia.org/wiki/Hangul&quot; title=&quot;Wikipedia entry&quot; target=&quot;_blank&quot;&gt;Hangul&lt;/a&gt;, which used only 51 characters, making it much easier to learn.  24 of the characters map closely to letters of the Latin alphabet.  The most interesting part is that the characters are drawn to show the way the lips and tongue are positioned to form the sound, enabling non-native speakers to sound out words without extensive training.
@@ -505,7 +514,7 @@ Mormons who have participated in a special &lt;a href=&quot;http://en.wikipedia.
  
  <entry>
    <title>Word Generator</title>
-   <link href="http://toasthaiku.net/2007/12/28/word-generator.html"/>
+   <link href="http://toasthaiku.net/2007/12/28/word-generator"/>
    <updated>2007-12-28T18:17:13-08:00</updated>
    <id>http://toasthaiku.net/2007/12/28/word-generator</id>
    <content type="html">Indromia, Quard, Conistate, Vercurelince, Quiniferphose!
@@ -521,7 +530,7 @@ Oh, and I also made a variation that uses U.S. Census data to generate new baby 
  
  <entry>
    <title>Make Fractal Art</title>
-   <link href="http://toasthaiku.net/2007/12/27/make-fractal-art.html"/>
+   <link href="http://toasthaiku.net/2007/12/27/make-fractal-art"/>
    <updated>2007-12-27T12:28:12-08:00</updated>
    <id>http://toasthaiku.net/2007/12/27/make-fractal-art</id>
    <content type="html">&lt;a href=&quot;http://flam3.com&quot; title=&quot;flam3.com&quot; target=&quot;_blank&quot;&gt;Flam3&lt;/a&gt; is a &lt;a href=&quot;http://en.wikipedia.org/wiki/Fractal&quot; title=&quot;Wikipedia entry for &quot; target=&quot;_blank&quot;&gt;fractal&lt;/a&gt; art generator written by &lt;a href=&quot;http://draves.org/&quot; title=&quot;draves.org&quot; target=&quot;_blank&quot;&gt;Scott Draves&lt;/a&gt;.  It's also the heart of a collaborative screen saver called &lt;a href=&quot;http://electricsheep.org/&quot; title=&quot;electricsheep.org&quot; target=&quot;_blank&quot;&gt;Electric Sheep&lt;/a&gt; (named after the &lt;a href=&quot;http://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F&quot; title=&quot;Do Androids Dream of Electric Sheep?&quot; target=&quot;_blank&quot;&gt;Philip K. Dick novel&lt;/a&gt;).  While a beautiful fractal animation plays on the user's screen, their computer is simultaneously rendering a few new frames for a future animation.  Each computer uploads its new frames to a server, and in return downloads new animations that were created by the distributed network.  These &quot;electric sheep&quot; are the &quot;dreams&quot; of the sleeping machines.
@@ -535,7 +544,7 @@ A program called &lt;a href=&quot;http://oxidizer.sourceforge.net&quot; target=&
  
  <entry>
    <title>Winter Moments</title>
-   <link href="http://toasthaiku.net/2007/12/26/winter-moments.html"/>
+   <link href="http://toasthaiku.net/2007/12/26/winter-moments"/>
    <updated>2007-12-26T22:04:49-08:00</updated>
    <id>http://toasthaiku.net/2007/12/26/winter-moments</id>
    <content type="html">I've posted some &lt;a href=&quot;http://www.flickr.com/photos/drtoast/sets/72157603552686746/&quot; title=&quot;Winter Moments on Flickr&quot; target=&quot;_blank&quot;&gt;new photos&lt;/a&gt; on Flickr that I took on Christmas Eve.  Little details, warm colors, silhouettes, backlighting... Enjoy!
@@ -545,7 +554,7 @@ A program called &lt;a href=&quot;http://oxidizer.sourceforge.net&quot; target=&
  
  <entry>
    <title>Sachiko Kodama's Ferrofluid Sculptures</title>
-   <link href="http://toasthaiku.net/2007/12/26/sachiko-kodamas-ferrofluid-sculptures.html"/>
+   <link href="http://toasthaiku.net/2007/12/26/sachiko-kodamas-ferrofluid-sculptures"/>
    <updated>2007-12-26T15:48:25-08:00</updated>
    <id>http://toasthaiku.net/2007/12/26/sachiko-kodamas-ferrofluid-sculptures</id>
    <content type="html">&lt;a href=&quot;http://en.wikipedia.org/wiki/Ferrofluid&quot; title=&quot;Ferrofluid on Wikipedia&quot; target=&quot;_blank&quot;&gt;Ferrofluid&lt;/a&gt; is a magnetic liquid.  Bay Area natives may remember playing with an exhibit at the &lt;a href=&quot;http://www.exploratorium.edu/&quot; target=&quot;_blank&quot;&gt;Exploratorium&lt;/a&gt; in which you pass a powerful magnet underneath a black fluid and watch as smooth spikes arise and merge.  Japanese artist &lt;a href=&quot;http://www.kodama.hc.uec.ac.jp/protrudeflow/works/index.html&quot; title=&quot;Sachiko Kodama's works&quot; target=&quot;_blank&quot;&gt;Sachiko Kodama&lt;/a&gt; uses ferrofluids and electromagnets to uncover the surprising creative possibilities of this medium.   I've just received &lt;a href=&quot;http://www.amazingmagnets.com/index.asp?PageAction=VIEWPROD&amp;amp;ProdID=108&quot; title=&quot;amazingmagnets.com&quot; target=&quot;_blank&quot;&gt;my own bottle&lt;/a&gt; to experiment with.
@@ -555,7 +564,7 @@ A program called &lt;a href=&quot;http://oxidizer.sourceforge.net&quot; target=&
  
  <entry>
    <title>Cheap Solar Panels</title>
-   <link href="http://toasthaiku.net/2007/12/26/cheap-solar-panels.html"/>
+   <link href="http://toasthaiku.net/2007/12/26/cheap-solar-panels"/>
    <updated>2007-12-26T15:07:24-08:00</updated>
    <id>http://toasthaiku.net/2007/12/26/cheap-solar-panels</id>
    <content type="html">&lt;a href=&quot;http://nanosolar.com/&quot; title=&quot;nanosolar.com&quot; target=&quot;_blank&quot;&gt;Nanosolar&lt;/a&gt; is &lt;a href=&quot;http://www.nytimes.com/2007/12/18/technology/18solar.html?ex=1355634000&amp;amp;en=091b06819623f9d0&amp;amp;ei=5088&amp;amp;partner=rssnyt&amp;amp;emc=rss&quot; title=&quot;NY Times Article&quot; target=&quot;_blank&quot;&gt;now producing&lt;/a&gt; panels that make solar power &lt;a href=&quot;http://www.celsias.com/2007/11/23/nanosolars-breakthrough-technology-solar-now-cheaper-than-coal/&quot; title=&quot;Celsias.com Article&quot;&gt;cheaper than coal&lt;/a&gt; for the first time.  Current &lt;a href=&quot;http://en.wikipedia.org/wiki/Photovoltaic&quot; target=&quot;_blank&quot;&gt;photovoltaic&lt;/a&gt; panels use expensive and fragile silicon wafers.  Nanosolar has developed a process to &quot;print&quot; photovoltaic material onto flexible rolls of aluminum cheaply and quickly, producing solar panels for less than $1 a watt, and enabling construction of large solar power plants for $2 a watt (coal plants cost about $2.10 a watt to build).  The cost should continue to drop as production scales up.
@@ -565,7 +574,7 @@ A program called &lt;a href=&quot;http://oxidizer.sourceforge.net&quot; target=&
  
  <entry>
    <title>Your Own Personal Wiki</title>
-   <link href="http://toasthaiku.net/2007/12/23/your-own-personal-wiki.html"/>
+   <link href="http://toasthaiku.net/2007/12/23/your-own-personal-wiki"/>
    <updated>2007-12-23T17:10:40-08:00</updated>
    <id>http://toasthaiku.net/2007/12/23/your-own-personal-wiki</id>
    <content type="html">Wherever I am, I can type &quot;w recipes&quot; into my browser's address bar and get an editable list of recipes I've tried and liked.  If I type &quot;w books&quot; I get a list of books people have told me to read.  Or &quot;w rails&quot; to see the notes I've been taking as I've been learning to program in &lt;a href=&quot;http://www.rubyonrails.org/&quot; target=&quot;_blank&quot;&gt;Ruby on Rails&lt;/a&gt;.  I can also do this from my &lt;a href=&quot;http://apple.com/iphone&quot; target=&quot;_blank&quot;&gt;iPhone&lt;/a&gt;, using a &lt;a href=&quot;http://toast.dj/q.html&quot; target=&quot;_blank&quot;&gt;special search page I made&lt;/a&gt;.
@@ -581,7 +590,7 @@ I use it every day.
  
  <entry>
    <title>Art Nouveau</title>
-   <link href="http://toasthaiku.net/2007/12/23/art-nouveau.html"/>
+   <link href="http://toasthaiku.net/2007/12/23/art-nouveau"/>
    <updated>2007-12-23T16:12:40-08:00</updated>
    <id>http://toasthaiku.net/2007/12/23/art-nouveau</id>
    <content type="html">I just bought &lt;a href=&quot;http://www.amazon.com/dp/383313545X&quot; target=&quot;_blank&quot;&gt;this book&lt;/a&gt; on &lt;a href=&quot;http://en.wikipedia.org/wiki/Art_Nouveau&quot; target=&quot;_blank&quot;&gt;Art Nouveau&lt;/a&gt;.  This turn-of-the-century style is marked by its bold, organic, flowing lines and intricate ornamentation, and has had a strong influence on modern graphic design.  The stems of flowers and vines are prominent - in fact, Art Nouveau has even been called &quot;stem style.&quot; The work of &lt;a href=&quot;http://en.wikipedia.org/wiki/Mucha&quot; target=&quot;_blank&quot;&gt;Alfons Mucha&lt;/a&gt;, with its radiant, neoclassical women with flowing robes and hair that almost resembles &lt;a href=&quot;http://en.wikipedia.org/wiki/Celtic_knot&quot; target=&quot;_blank&quot;&gt;celtic knotwork&lt;/a&gt;, is quintessential Art Nouveau.
@@ -595,7 +604,7 @@ I use it every day.
  
  <entry>
    <title>Live Deep-Sea Streaming Video</title>
-   <link href="http://toasthaiku.net/2007/12/23/live-deep-sea-streaming-video.html"/>
+   <link href="http://toasthaiku.net/2007/12/23/live-deep-sea-streaming-video"/>
    <updated>2007-12-23T15:47:08-08:00</updated>
    <id>http://toasthaiku.net/2007/12/23/live-deep-sea-streaming-video</id>
    <content type="html">The &lt;a href=&quot;http://www.joiscience.org/ocean_observing/initiative&quot;&gt;Ocean Observatories Initiative&lt;/a&gt; is a project by the &lt;a href=&quot;http://www.calit2.net/&quot;&gt;California Institute for Telecommunications and Information Technology&lt;/a&gt; to bring live streaming video and data from the deep sea to internet users for free.  It should be available in the &quot;next few years.&quot; (via &lt;a href=&quot;http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2007/07/29/MNG48R96HN1.DTL&quot;&gt;SF Gate&lt;/a&gt;)
@@ -605,7 +614,7 @@ I use it every day.
  
  <entry>
    <title>Cellulosic Ethanol</title>
-   <link href="http://toasthaiku.net/2007/12/23/cellulosic-ethanol.html"/>
+   <link href="http://toasthaiku.net/2007/12/23/cellulosic-ethanol"/>
    <updated>2007-12-23T15:37:20-08:00</updated>
    <id>http://toasthaiku.net/2007/12/23/cellulosic-ethanol</id>
    <content type="html">&lt;a href=&quot;http://www.rangefuels.com/&quot;&gt;Range Fuels&lt;/a&gt; is building the world's first commerical &lt;a href=&quot;http://en.wikipedia.org/wiki/Cellulosic_ethanol&quot; target=&quot;_blank&quot;&gt;cellulosic ethanol&lt;/a&gt; plant in Georgia, producing 100 million gallons per year. Cellulosic ethanol makes use of normally discarded plant material, such as the husks and stalks from corn, or easily grown switch grass.  The process creates 16 times more energy than is required to create it, vs only 1.3 times for &lt;a href=&quot;http://en.wikipedia.org/wiki/Corn_ethanol&quot; target=&quot;_blank&quot;&gt;corn ethanol&lt;/a&gt;, which only uses the kernels of the corn. The plant should be online in 2008. (via &lt;a href=&quot;http://www.autobloggreen.com/2007/07/05/range-fuels-building-the-nations-first-commercial-cellulosic-et/&quot;&gt;AutoBlogGreen&lt;/a&gt;)
@@ -615,7 +624,7 @@ I use it every day.
  
  <entry>
    <title>Large Synoptic Survey Telescope</title>
-   <link href="http://toasthaiku.net/2007/12/23/large-synoptic-survey-telescope.html"/>
+   <link href="http://toasthaiku.net/2007/12/23/large-synoptic-survey-telescope"/>
    <updated>2007-12-23T15:25:15-08:00</updated>
    <id>http://toasthaiku.net/2007/12/23/large-synoptic-survey-telescope</id>
    <content type="html">The &lt;a href=&quot;http://www.lsst.org/&quot; target=&quot;_blank&quot;&gt;Large Synoptic Survey Telescope&lt;/a&gt; will collect 90 terabytes of images of the whole night sky every three days using a 3-billion-pixel camera, in order to detect faint long-term astronomical changes, or rapid changes that we don't normally see because we were looking at the wrong part of the sky at the time.  The 8.4 meter LSST is scheduled to go online in 2013.
@@ -625,7 +634,7 @@ I use it every day.
  
  <entry>
    <title>Series Hybrids</title>
-   <link href="http://toasthaiku.net/2007/12/23/series-hybrids.html"/>
+   <link href="http://toasthaiku.net/2007/12/23/series-hybrids"/>
    <updated>2007-12-23T15:13:45-08:00</updated>
    <id>http://toasthaiku.net/2007/12/23/series-hybrids</id>
    <content type="html">Unlike today's &quot;&lt;a href=&quot;http://en.wikipedia.org/wiki/Hybrid_vehicle_drivetrain&quot; target=&quot;_blank&quot;&gt;parallel hybrid&lt;/a&gt;&quot; cars, where a normal gas engine and an electric motor are both mechanically connected to the wheels, the &lt;a href=&quot;http://www.worldcarfans.com/9070906.002/volvo-c30-recharge-concept-at-frankfurt&quot;&gt;Volvo C-30 Recharge Concept&lt;/a&gt; &quot;&lt;a href=&quot;http://en.wikipedia.org/wiki/Hybrid_vehicle_drivetrain&quot; target=&quot;_blank&quot;&gt;series hybrid&lt;/a&gt;&quot; has four electric motors, one in each wheel well, and a diesel engine that isn't connected to the wheels - its only job is to act as a generator and recharge the batteries when they are low, or send electricity to the wheel motors if the batteries are empty.
@@ -639,7 +648,7 @@ Sadly, this car exists only in a test version, and may never reach production.  
  
  <entry>
    <title>72 Hours in 72 Minutes</title>
-   <link href="http://toasthaiku.net/2007/12/23/72-hours-in-72-minutes.html"/>
+   <link href="http://toasthaiku.net/2007/12/23/72-hours-in-72-minutes"/>
    <updated>2007-12-23T14:44:24-08:00</updated>
    <id>http://toasthaiku.net/2007/12/23/72-hours-in-72-minutes</id>
    <content type="html">Director &lt;a href=&quot;http://music.columbia.edu/~luke/&quot; title=&quot;R. Luke Dubois&quot; target=&quot;_blank&quot;&gt;R. Luke Dubois&lt;/a&gt; spent three days filming actress &lt;a href=&quot;http://lianamaris.com/&quot; target=&quot;_blank&quot;&gt;Lian Amaris Sifuentes&lt;/a&gt; moving in extreme slow motion on a set in the street near New York's Union Square, made to look like an old-fashioned boudoir.  Her performance, in which she goes through the ritual of preparing for a date, will be digitally sped up by sixty times and shown as a &lt;a href=&quot;http://www.fashionablylatefortherelationship.com/&quot; target=&quot;_blank&quot;&gt;feature-length film&lt;/a&gt;, such that the actress appears to move at a regular pace while city life races by in the background.  New digital processing techniques are used which result in smooth motion, unlike the normal fast-forward that we are used to.  Scheduled for exhibition in galleries and on HD-DVD in 2008.
@@ -650,7 +659,7 @@ Sadly, this car exists only in a test version, and may never reach production.  
  
  <entry>
    <title>The Cat's Snowflakes</title>
-   <link href="http://toasthaiku.net/2005/11/23/the-cats-snowflakes.html"/>
+   <link href="http://toasthaiku.net/2005/11/23/the-cats-snowflakes"/>
    <updated>2005-11-23T09:43:18-08:00</updated>
    <id>http://toasthaiku.net/2005/11/23/the-cats-snowflakes</id>
    <content type="html">I was assisting a group of scientists in performing a behavioral experiment.  We would pick up a large, thin sheet of translucent rainbow-colored material by its edges and follow a cat around the room with it.  When the cat stopped, we held the sheet of material just above it.  The material would then melt onto the floor around the cat, and the multi-colored droplets on the floor would then start to arrange themselves into a symmetrical pattern, like a giant snowflake.  The cat would watch the pattern taking shape, and would then use its paws to help complete the design, pushing the droplets along to their final positions before they solidified.  When the pattern was complete, we would pick up the new solid sheet of material, the cat would begin to wander, and we would follow it around until it stopped.  Then we would hold the sheet over the cat, the sheet would melt, and the cycle would repeat.Eventually the cat grew tired of the game, and refused to stay under the sheet.  &quot;Looks like the jig is up,&quot; I said.
@@ -659,18 +668,17 @@ Sadly, this car exists only in a test version, and may never reach production.  
  
  <entry>
    <title>Red Birds</title>
-   <link href="http://toasthaiku.net/2005/05/28/red-birds.html"/>
+   <link href="http://toasthaiku.net/2005/05/28/red-birds"/>
    <updated>2005-05-28T09:30:45-07:00</updated>
    <id>http://toasthaiku.net/2005/05/28/red-birds</id>
-   <content type="html">I was holding a device that I had somehow reconfigured such that when I pushed its button, it would cause a bird to slowly fly down from its perch over a reflecting pool, perform a series of graceful swoops and curves, touch the surface of the water, and finally return to its perch - after which it would dive down again and continuously repeat the pattern.  Every time I pushed the button, it would cause another bird to appear, in a different shade of brilliant red, yellow, or orange.  Each new bird would begin perched next to the previous bird, and would then begin to perform the same flight in the same pattern, but in just a slightly offset position. I began to push the button as rapidly as I could, until there were hundreds of birds.  At first they were spread out in a continuous ribbon that flowed in a slow, shimmering loop.  But after a while, they began to synchronize to each other such that they resembled a giant flickering smear that would start up at the perch and pour itself through the air above the reflecting pool.It was beautiful to watch, but somehow in the back of my mind I knew I was breaking a rule.  My fears were confirmed when a crowd began to gather, and an old man in a raincoat curiously stepped close to the path of the birds.  When the flickering red smear passed by him, they caught the edge of his coat and lifted him off the ground.  They continued along their usual path, and when they returned to their perch, I could see that he was being crushed as they pulled him through an obstruction above the perch.
+   <content type="html">I was holding a device that I had somehow reconfigured such that when I pushed its button, it would cause a bird to slowly fly down from its perch over a reflecting pool, perform a series of graceful swoops and curves, touch the surface of the water, and finally return to its perch - after which it would dive down again and continuously repeat the pattern.  Every time I pushed the button, it would cause another bird to appear, in a different shade of brilliant red, yellow, or orange.  Each new bird would begin perched next to the previous bird, and would then begin to perform the same flight in the same pattern, but in just a slightly offset position. I began to push the button as rapidly as I could, until there were hundreds of birds.  At first they were spread out in a continuous ribbon that flowed in a slow, shimmering loop.  But after a while, they began to synchronize to each other such that they resembled a giant flickering smear that would start up at the perch and pour itself through the air above the reflecting pool.It was beautiful to watch, but somehow in the back of my mind I knew I was breaking a rule.  My fears were confirmed when a crowd began to gather, and an old man in a raincoat curiously stepped close to the path of the birds.  When the flickering red smear passed by him, they caught the edge of his coat and lifted him off the ground.
 
-I knew that the shocked crowd was about to come after me, so I put the device to my ear as if calling for help and began to run.
 </content>
  </entry>
  
  <entry>
    <title>Lucid Dreaming</title>
-   <link href="http://toasthaiku.net/2000/10/18/lucid-dreaming.html"/>
+   <link href="http://toasthaiku.net/2000/10/18/lucid-dreaming"/>
    <updated>2000-10-18T10:00:26-07:00</updated>
    <id>http://toasthaiku.net/2000/10/18/lucid-dreaming</id>
    <content type="html">Some friends and I were experiencing a particularly bizarre sequence of events, when suddenly I realized, &quot;This is way too ridiculous, we must be dreaming.&quot;
@@ -695,7 +703,7 @@ But then I woke up, and my first conscious thought was, &quot;Whew! It WAS me!&q
  
  <entry>
    <title>Soup in the South</title>
-   <link href="http://toasthaiku.net/1998/10/23/soup-in-the-south.html"/>
+   <link href="http://toasthaiku.net/1998/10/23/soup-in-the-south"/>
    <updated>1998-10-23T10:42:08-07:00</updated>
    <id>http://toasthaiku.net/1998/10/23/soup-in-the-south</id>
    <content type="html">While visiting a large, comfortable house somewhere in the South, I very unwisely chose to climb into a bathtub of chicken soup while fully clothed.  I soon realized the folly of my situation, but fortunately there was a second bathroom right across the hallway where I could go to clean myself up.
@@ -712,7 +720,7 @@ Later, I sat on the porch with the house's matron, discussing the constant argum
  
  <entry>
    <title>Bananas and Spielberg</title>
-   <link href="http://toasthaiku.net/1997/05/22/bananas-and-spielberg.html"/>
+   <link href="http://toasthaiku.net/1997/05/22/bananas-and-spielberg"/>
    <updated>1997-05-22T14:13:25-07:00</updated>
    <id>http://toasthaiku.net/1997/05/22/bananas-and-spielberg</id>
    <content type="html">As I was getting slightly drunk with wine at a social gathering, a friend told me he desperately needed my help. One of the performers in the dance routine scheduled for that evening didn't show up, and he needed me to fill in. There was no time to rehearse.
@@ -727,7 +735,7 @@ They invited me to catch a movie with them.
  
  <entry>
    <title>Abalone Fisherwoman</title>
-   <link href="http://toasthaiku.net/1997/02/22/abalone-fisherwoman.html"/>
+   <link href="http://toasthaiku.net/1997/02/22/abalone-fisherwoman"/>
    <updated>1997-02-22T15:38:10-08:00</updated>
    <id>http://toasthaiku.net/1997/02/22/abalone-fisherwoman</id>
    <content type="html">I was rudely awakened by little bits of the ceiling falling on my bed. Apparently my upstairs neighbors were doing some &quot;improvements&quot; and were creating a widening hole in the ceiling and adjacent wall above me.
@@ -742,7 +750,7 @@ She was as surprised as I was.
  
  <entry>
    <title>Michael Douglas and Tofu</title>
-   <link href="http://toasthaiku.net/1997/01/24/michael-douglas-and-tofu.html"/>
+   <link href="http://toasthaiku.net/1997/01/24/michael-douglas-and-tofu"/>
    <updated>1997-01-24T11:00:09-08:00</updated>
    <id>http://toasthaiku.net/1997/01/24/michael-douglas-and-tofu</id>
    <content type="html">I was working as a temp for Michael Douglas at a large corporation, doing research on using tofu as a meat substitute in cooking. As I was chasing after Mr. Douglas with my stack of notes, I ran into Julia Roberts. Then it occurred to me that this must be the making of a movie.
@@ -761,7 +769,7 @@ I felt like such an idiot.
  
  <entry>
    <title>Meat Loaf Recipes of the Old West</title>
-   <link href="http://toasthaiku.net/1996/01/22/meat-loaf-recipes-of-the-old-west.html"/>
+   <link href="http://toasthaiku.net/1996/01/22/meat-loaf-recipes-of-the-old-west"/>
    <updated>1996-01-22T22:48:15-08:00</updated>
    <id>http://toasthaiku.net/1996/01/22/meat-loaf-recipes-of-the-old-west</id>
    <content type="html">I was sitting in a nicely furnished living room with Joan Collins and some guy I didn't know (I assumed he was a friend of Joan). We were all armed with automatic weapons, and we were calmly firing blanks at each other's heads.
